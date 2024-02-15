@@ -13,3 +13,5 @@ Creating different types of products: A food ordering system might use a Factory
 Generating documents: A document management system might use a Factory Method to create different types of documents (resumes, reports, etc.) based on user selection.
 Simulating different character types: A video game might use a Factory Method to create different types of enemies or NPCs based on the game level or player location.
 
+![Image of your PNG](https://github.com/GLskill/Pattern-Method/blob/factory_pattern/patterns/factory/diagram_of_factory_pattern.png)
+
