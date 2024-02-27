@@ -188,7 +188,8 @@ def draw_greetings_screen(username: str, gui: GUI) -> None:
     window.add(text_label)
     window.draw()
 
-def main():
+
+def __main__():
     global gui
     os = platform.system()
     if os == "Windows":
